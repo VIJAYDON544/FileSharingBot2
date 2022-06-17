@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/skdrono05/FileSharingBot",
-  "logo": "https://telegra.ph/file/c9293e9ad36d64c577f45.jpg",
+  "logo": "https://telegra.ph/file/4f401b0d67a8276f6558d.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1942517921"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
