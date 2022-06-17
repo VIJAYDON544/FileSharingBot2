@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/athulx80/File-Sharing-Bot",
+  "repository": "https://github.com/skdrono05/FileSharingBot",
   "logo": "https://telegra.ph/file/c9293e9ad36d64c577f45.jpg",
   "env": {
     "TG_BOT_TOKEN": {
